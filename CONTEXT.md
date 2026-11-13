@@ -1,16 +1,20 @@
-# Your company context
+# Nexova Solutions Context
 
-**Replace this content** with the CONTEXT for your assigned company:
+**Company Overview**
 
-- **Brasaland** — `brasaland-BRIEFING.md` (grilled food restaurant chain, Colombia + Florida)
-- **TrackFlow** — `trackflow-BRIEFING.md` (last-mile delivery and warehouse, US + Spain)
-- **Nexova** — `nexova-BRIEFING.md` (HR consulting and talent acquisition, Spain + US)
-- **HealthCore** — `healthcore-BRIEFING.md` (outpatient healthcare clinic network, US + UK)
+Nexova Solutions is a human resources consulting and talent acquisition firm founded in 2011, headquartered in Valencia, Spain, with an expansion office in Miami, Florida. The company has 120 employees and generates approximately 8 million dollars in annual revenue.
 
-Project statements will point you to the correct context file. Use its contents to build your project context here so that all project work and AI coding agents use the same domain data, field names, and constraints. Avoid copying and pasting the content; use your agents first.
+**Business Lines**
 
----
+1. **Executive and Mid-Management Headhunting** — Recruitment and placement of senior leadership positions
+2. **Customer Support Team Outsourcing** — Staffing solutions for technology companies' support operations
+3. **Corporate Training** — Soft skills and leadership development programs
 
-_Until you add your context, keep this placeholder so the repo structure is clear._
+**Key Markets**
 
-_Estas instrucciones también están disponibles en [español](./CONTEXT.es.md)._
+- **Primary:** Spain (Valencia headquarters)
+- **Secondary:** United States (Miami office)
+
+**Briefing**
+
+Nexova's clients are mid-sized companies — mostly in technology, retail, and financial services — that have decided to outsource some or all of their talent management. They come to Nexova because finding the right people, training them, and keeping them engaged is hard, and Nexova has spent twelve years building the expertise to do it well.
